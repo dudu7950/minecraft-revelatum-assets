@@ -1,0 +1,18 @@
+{
+    "projects": [
+        {
+            "id": "the-pos-final",
+            "name": "The Pos Final",
+            "description": "La experiencia final de The Pos, con un nuevo enfoque.",
+            "banner_url": "https://raw.githubusercontent.com/.../banner_pos.png",
+            "version_url": "https://raw.githubusercontent.com/.../pos_version.json"
+        },
+        {
+            "id": "posmortem",
+            "name": "Posmortem",
+            "description": "Tras la nevada, los supervivientes tenían que luchar por su supervivencia. Dos semanas, una única oportunidad.",
+            "banner_url": "https://raw.githubusercontent.com/.../banner_postmortem.png",
+            "version_url": "https://raw.githubusercontent.com/.../postmortem_version.json"
+        }
+    ]
+}
