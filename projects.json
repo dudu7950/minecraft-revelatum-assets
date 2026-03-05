@@ -5,7 +5,7 @@
             "name": "The Pos Final",
             "description": "La experiencia final de The Pos, con un nuevo enfoque.",
             "banner_url": "https://raw.githubusercontent.com/.../banner_pos.png",
-            "version_url": "https://raw.githubusercontent.com/.../pos_version.json"
+            "version_url": "https://raw.githubusercontent.com/dudu7950/minecraft-revelatum-assets/refs/heads/main/pos_final.json"
         },
         {
             "id": "posmortem",
@@ -15,4 +15,5 @@
             "version_url": "https://raw.githubusercontent.com/.../postmortem_version.json"
         }
     ]
+
 }
