@@ -12,8 +12,9 @@
             "name": "Posmortem",
             "description": "Tras la nevada, los supervivientes tenían que luchar por su supervivencia. Dos semanas, una única oportunidad.",
             "banner_url": "https://raw.githubusercontent.com/.../banner_postmortem.png",
-            "version_url": "https://raw.githubusercontent.com/.../postmortem_version.json"
+            "version_url": "https://raw.githubusercontent.com/dudu7950/minecraft-revelatum-assets/refs/heads/main/pos_mortem.json"
         }
     ]
 
 }
+
